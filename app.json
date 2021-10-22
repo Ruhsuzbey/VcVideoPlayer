@@ -39,10 +39,7 @@
             "description": "put your channel link without @",
             "required": true
         },
-        "SOURCE_CODE": {
-            "description": "put your GitHub link like this GitHub.com/Ruhsuzbey/VcVideoPlayer",
-            "required": true 
-        },
+         
         "BOT_USERNAME": {
             "description": "Put your bot username",
             "required": true
